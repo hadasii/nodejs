@@ -12,5 +12,6 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/hadasii/nodejs"
 }
